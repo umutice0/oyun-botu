@@ -1,0 +1,19 @@
+{
+  "name": "oyun-botu",
+  "version": "0.0.1",
+  "description": "",
+  "main": "umutice.js",
+  "scripts": {
+    "test": "node umutice.js"
+  },
+  "author": "UmutICE",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "math-expression-evaluator": "^1.3.7",
+    "moment": "^2.29.1",
+    "nrc.db": "^2.1.0"
+  }
+}
